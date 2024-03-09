@@ -22,6 +22,26 @@ Icon | Character | Text
 
 ### Outsider
 
+Icon | Character | Text
+--- | --- | ---
+![Puzzlemaster](https://wiki.bloodontheclocktower.com/images/7/7a/Icon_puzzlemaster.png) | **Puzzlemaster** | 1 player is drunk, even if you die. If you guess (once) who it is, learn the Demon player, but guess wrong & get false info.
+![Sweetheart](https://wiki.bloodontheclocktower.com/images/6/6a/Icon_sweetheart.png) | **Sweetheart** | When you die, 1 player is drunk from now on.
+![Plague Doctor](https://wiki.bloodontheclocktower.com/images/e/e2/Icon_plaguedoctor.png) | **Plague Doctor** | If you die, the Storyteller gains a not-in-play Minion ability.
+![Hatter](https://wiki.bloodontheclocktower.com/images/4/44/Icon_hatter.png) | **Hatter** | If you died today or tonight, the Minion & Demon players may choose new Minion & Demon characters to be.
+
 ### Minion
 
+Icon | Character | Text
+--- | --- | ---
+![Widow](https://wiki.bloodontheclocktower.com/images/9/99/Icon_widow.png) | **Widow** | On your first night, look at the Grimoire & choose a player: they are poisoned. 1 good player knows a Widow is in play.
+![Harpy](https://wiki.bloodontheclocktower.com/images/1/1b/Harpy.png) | **Harpy** | Each night, choose 2 players: tomorrow, the 1st player is mad that the 2nd is evil, or both might die.
+![Mezepheles](https://wiki.bloodontheclocktower.com/images/f/f2/Icon_mezepheles.png) | **Mezepheles** | You start knowing a secret word. The 1st good player to say this word becomes evil that night.
+![Marionette](https://wiki.bloodontheclocktower.com/images/c/cf/Icon_marionette.png) | **Marionette** | You think you are a good character, but you are not. The Demon knows who you are. [You neighbor the Demon]
+
 ### Demon
+
+Icon | Character | Text
+--- | --- | ---
+![Yaggababble](https://wiki.bloodontheclocktower.com/images/0/08/Icon_yaggababble.png) | **Yaggababble** | You start knowing a secret phrase. For each time you said it publicly today, a player might die.
+![Kazali](https://wiki.bloodontheclocktower.com/images/9/9d/Kazali_icon.png) | **Kazali** | Each night*, choose a player: they die. [You choose which players are which Minions. -? to +? Outsiders]
+![Ojo](https://wiki.bloodontheclocktower.com/images/6/6f/Icon_ojo.png) | **Ojo** | Each night*, choose a character: they die. If they are not in play, the Storyteller chooses who dies.
