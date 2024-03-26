@@ -34,7 +34,7 @@ Icon | Character | Text
 Icon | Character | Text
 --- | --- | ---
 ![Widow](https://wiki.bloodontheclocktower.com/images/9/99/Icon_widow.png) | **Widow** | On your first night, look at the Grimoire & choose a player: they are poisoned. 1 good player knows a Widow is in play.
-![Harpy](https://wiki.bloodontheclocktower.com/images/1/1b/Harpy.png) | **Harpy** | Each night, choose 2 players: tomorrow, the 1st player is mad that the 2nd is evil, or both might die.
+![Summoner](https://wiki.bloodontheclocktower.com/images/1/1a/Icon_summoner.png) | **Summoner** | You get 3 bluffs. On the 3rd night, choose a player: they become an evil Demon of your choice. [No Demon]
 ![Mezepheles](https://wiki.bloodontheclocktower.com/images/f/f2/Icon_mezepheles.png) | **Mezepheles** | You start knowing a secret word. The 1st good player to say this word becomes evil that night.
 ![Marionette](https://wiki.bloodontheclocktower.com/images/c/cf/Icon_marionette.png) | **Marionette** | You think you are a good character, but you are not. The Demon knows who you are. [You neighbor the Demon]
 
