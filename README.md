@@ -2,6 +2,8 @@
 
 **JSON Link:** https://raw.githubusercontent.com/enthusiastick/trashheap/main/trash_heap_has_spoken.json
 
+*& Check out my [script hub](https://botc.eben.games/ "Blood on the Clocktower scripts by eben")!*
+
 ### Townsfolk
 
 Icon | Character | Text
