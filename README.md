@@ -4,6 +4,12 @@
 
 *& Check out my [script hub](https://botc.eben.games/ "Blood on the Clocktower scripts by eben")!*
 
+### Fabled
+
+Icon | Character | Text
+--- | --- | ---
+![Spirit of Ivory](https://wiki.bloodontheclocktower.com/images/9/96/Icon_spiritofivory.png) | **Spirit of Ivory** | There can't be more than 1 extra evil player.
+
 ### Townsfolk
 
 Icon | Character | Text
